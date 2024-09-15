@@ -1,2 +1,5 @@
 welcome to jenkins
 we are learning ci/cd tool as a jenkins
+maven is a build tool
+git is an scm tool
+jenkins is a ci/cd tool
